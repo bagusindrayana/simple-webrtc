@@ -1,0 +1,21 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@andyet/simplewebrtc": "^1.16.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.3",
+    "jquery": "^3.4.1",
+    "semantic-ui-css": "^2.4.1",
+    "simplewebrtc": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
